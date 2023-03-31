@@ -630,7 +630,7 @@ export function Home() {
           <div className={styles["sidebar-title"]}>欢迎来到新数界</div>
           <div className={styles["sidebar-sub-title"]}>
             以下是你可以获取到的最好的知识社区。
-            给创业者、企业主的赚钱星球，拆解AI赛道机会、对接各方资源：https://xiaobot.net/p/aiyanjiu?refer=058e1061-efc1-4516-9f77-e0208f11839b
+            给创业者、企业主的赚钱星球，拆解AI赛道机会、对接各方资源：https://s.r.sn.cn/jLrWYf
             人工智能领域著作等身的专家对AI的思考，长期主义者必读：
           </div>
           <div className={styles["sidebar-logo"]}>
