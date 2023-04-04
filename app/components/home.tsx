@@ -631,7 +631,7 @@ export function Home() {
           <div className={styles["sidebar-sub-title"]}>
             <p>以下是你可以获取到的最好的知识社区。</p>
             <p>给创业者、企业主的赚钱星球，拆解AI赛道机会、对接各方资源：<a href="https://xiaobot.net/p/aiyanjiu?refer=058e1061-efc1-4516-9f77-e0208f11839b">点击查看</a ></p>
-            <p>人工智能领域著作等身的专家对AI的思考，长期主义者必读：<a href="https://https://t.zsxq.com/0cCC01hAM">点击查看</a ></p>
+            <p>人工智能领域著作等身的专家对AI的思考，长期主义者必读：<a href="https://t.zsxq.com/0cCC01hAM">点击查看</a ></p>
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
